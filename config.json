@@ -1,0 +1,9 @@
+{
+    "accounts": [
+      {
+        "username": "usuario",
+        "password": "senha",
+        "server_name": "nick_e_servidor"
+      }
+    ]
+  }
